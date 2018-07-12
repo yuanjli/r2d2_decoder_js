@@ -156,7 +156,7 @@ node solution.js
 
 ## Yay! All done!
 
-<img src="https://media.giphy.com/media/rl1aX0WUmGcKs/giphy.gif" alt="Github failed to load image. Thanks Github">
+<img src="https://media.giphy.com/media/UOpdmwKA7la0g/giphy.gif" alt="Github failed to load image. Thanks Github">
 
 Now, if you want to know a little more about why that particular message was chosen, [read up here](https://blog.hackerrank.com/the-history-of-hello-world/)!
 
